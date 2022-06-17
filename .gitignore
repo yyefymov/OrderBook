@@ -1,0 +1,7 @@
+build/
+.qmake.stash
+.qtc_clangd/
+AppCppSoftwareEngineer_YevhenYefymov.zip
+Makefile
+OrderBook.exe
+OrderBook.pro.user
