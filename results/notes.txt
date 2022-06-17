@@ -1,0 +1,1 @@
+bestSellAtTime() only considers the price field of an order, but can be tweaked to a different criteria.

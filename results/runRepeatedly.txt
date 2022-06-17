@@ -1,0 +1,399 @@
+Run the order book operations every 5000th entry.
+
+
+Collect order book info at 9:26:46.80004
+
+Order count by symbol:
+DVAM1: 10
+DVAM2: 10
+OTHER: 0
+TEST0: 8
+TEST1: 1
+TEST2: 3
+TEST3: 4
+TEST4: 3
+TEST5: 1
+TEST6: 5
+TEST7: 8
+TEST8: 4
+TEST9: 1
+
+
+Biggest buy DVAM1 orders:
+Order ID: 2839373; volume: 937
+Order ID: 2839374; volume: 40
+Order ID: 2839366; volume: 4
+
+
+Biggest sell at 9:26:46.80004
+Order ID: 2839384; volume: 8; price: 36.1
+
+
+Collect order book info at 9:54:2.940009
+
+Order count by symbol:
+DVAM1: 9
+DVAM2: 5
+OTHER: 2
+TEST0: 7
+TEST1: 4
+TEST2: 4
+TEST3: 6
+TEST4: 2
+TEST5: 1
+TEST6: 1
+TEST7: 1
+TEST8: 11
+TEST9: 4
+
+
+Biggest buy DVAM1 orders:
+Order ID: 2841552; volume: 54
+Order ID: 2841553; volume: 43
+Order ID: 2841550; volume: 8
+
+
+Biggest sell at 9:54:2.940009
+Order ID: 2841541; volume: 9; price: 23.4
+
+
+Collect order book info at 10:21:14.670007
+
+Order count by symbol:
+DVAM1: 1
+DVAM2: 5
+OTHER: 5
+TEST0: 3
+TEST1: 1
+TEST2: 12
+TEST3: 8
+TEST4: 3
+TEST5: 1
+TEST6: 9
+TEST7: 1
+TEST8: 7
+TEST9: 1
+
+
+Biggest buy DVAM1 orders:
+Order ID: 2843735; volume: 489
+
+
+No SELL order at 10:21:14.670007
+
+
+Collect order book info at 10:48:27.690003
+
+Order count by symbol:
+DVAM1: 2
+DVAM2: 6
+OTHER: 3
+TEST0: 4
+TEST1: 7
+TEST2: 5
+TEST3: 6
+TEST4: 2
+TEST5: 3
+TEST6: 4
+TEST7: 4
+TEST8: 3
+TEST9: 4
+
+
+Biggest buy DVAM1 orders:
+Order ID: 2845932; volume: 5
+
+
+Biggest sell at 10:48:27.690003
+Order ID: 2845933; volume: 9; price: 23.8
+
+
+Collect order book info at 11:15:28.119995
+
+Order count by symbol:
+DVAM1: 2
+DVAM2: 3
+OTHER: 9
+TEST0: 5
+TEST1: 2
+TEST2: 1
+TEST3: 1
+TEST4: 4
+TEST5: 6
+TEST6: 1
+TEST7: 4
+TEST8: 6
+TEST9: 4
+
+
+Biggest buy DVAM1 orders:
+Order ID: 2848098; volume: 687
+
+
+Biggest sell at 11:15:28.119995
+Order ID: 2848100; volume: 70; price: 31.5
+
+
+Collect order book info at 11:42:23.699995
+
+Order count by symbol:
+DVAM1: 1
+DVAM2: 3
+OTHER: 2
+TEST0: 0
+TEST1: 3
+TEST2: 1
+TEST3: 5
+TEST4: 2
+TEST5: 3
+TEST6: 3
+TEST7: 2
+TEST8: 6
+TEST9: 9
+
+
+Biggest buy DVAM1 orders:
+
+
+Biggest sell at 11:42:23.699995
+Order ID: 2850283; volume: 754; price: 26.7
+
+
+Collect order book info at 12:9:3.690001
+
+Order count by symbol:
+DVAM1: 7
+DVAM2: 6
+OTHER: 6
+TEST0: 1
+TEST1: 2
+TEST2: 2
+TEST3: 9
+TEST4: 6
+TEST5: 7
+TEST6: 4
+TEST7: 5
+TEST8: 10
+TEST9: 13
+
+
+Biggest buy DVAM1 orders:
+Order ID: 2852473; volume: 158
+Order ID: 2852467; volume: 4
+Order ID: 2852479; volume: 3
+
+
+Biggest sell at 12:9:3.690001
+Order ID: 2852478; volume: 9; price: 34.2
+
+
+Collect order book info at 12:36:13.870004
+
+Order count by symbol:
+DVAM1: 1
+DVAM2: 3
+OTHER: 5
+TEST0: 2
+TEST1: 9
+TEST2: 4
+TEST3: 3
+TEST4: 1
+TEST5: 7
+TEST6: 7
+TEST7: 13
+TEST8: 3
+TEST9: 10
+
+
+Biggest buy DVAM1 orders:
+Order ID: 2854671; volume: 7
+
+
+No SELL order at 12:36:13.870004
+
+
+Collect order book info at 13:3:24.850008
+
+Order count by symbol:
+DVAM1: 0
+DVAM2: 0
+OTHER: 3
+TEST0: 1
+TEST1: 11
+TEST2: 1
+TEST3: 5
+TEST4: 3
+TEST5: 2
+TEST6: 6
+TEST7: 4
+TEST8: 8
+TEST9: 9
+
+
+Biggest buy DVAM1 orders:
+
+
+No SELL order at 13:3:24.850008
+
+
+Collect order book info at 13:29:54.330006
+
+Order count by symbol:
+DVAM1: 10
+DVAM2: 2
+OTHER: 5
+TEST0: 2
+TEST1: 8
+TEST2: 2
+TEST3: 2
+TEST4: 5
+TEST5: 1
+TEST6: 5
+TEST7: 1
+TEST8: 6
+TEST9: 6
+
+
+Biggest buy DVAM1 orders:
+Order ID: 2859034; volume: 691
+Order ID: 2859036; volume: 46
+Order ID: 2859044; volume: 36
+
+
+Biggest sell at 13:29:54.330006
+Order ID: 2859045; volume: 9; price: 38.5
+
+
+Collect order book info at 13:56:22.230012
+
+Order count by symbol:
+DVAM1: 2
+DVAM2: 3
+OTHER: 7
+TEST0: 3
+TEST1: 5
+TEST2: 1
+TEST3: 3
+TEST4: 6
+TEST5: 1
+TEST6: 4
+TEST7: 2
+TEST8: 2
+TEST9: 2
+
+
+Biggest buy DVAM1 orders:
+
+
+Biggest sell at 13:56:22.230012
+Order ID: 2861219; volume: 1; price: 37
+
+
+Collect order book info at 14:23:10.480012
+
+Order count by symbol:
+DVAM1: 4
+DVAM2: 3
+OTHER: 4
+TEST0: 3
+TEST1: 4
+TEST2: 1
+TEST3: 6
+TEST4: 3
+TEST5: 0
+TEST6: 3
+TEST7: 4
+TEST8: 9
+TEST9: 3
+
+
+Biggest buy DVAM1 orders:
+Order ID: 2863418; volume: 4
+
+
+Biggest sell at 14:23:10.480012
+Order ID: 2863416; volume: 97; price: 35.5
+
+
+Collect order book info at 14:50:3.560011
+
+Order count by symbol:
+DVAM1: 11
+DVAM2: 1
+OTHER: 7
+TEST0: 3
+TEST1: 3
+TEST2: 8
+TEST3: 2
+TEST4: 1
+TEST5: 5
+TEST6: 4
+TEST7: 3
+TEST8: 4
+TEST9: 6
+
+
+Biggest buy DVAM1 orders:
+Order ID: 2865589; volume: 585
+Order ID: 2865577; volume: 389
+Order ID: 2865586; volume: 60
+
+
+Biggest sell at 14:50:3.560011
+Order ID: 2865557; volume: 76; price: 42.3
+
+
+Collect order book info at 15:17:7.270009
+
+Order count by symbol:
+DVAM1: 7
+DVAM2: 1
+OTHER: 2
+TEST0: 2
+TEST1: 1
+TEST2: 1
+TEST3: 4
+TEST4: 3
+TEST5: 1
+TEST6: 11
+TEST7: 3
+TEST8: 2
+TEST9: 1
+
+
+Biggest buy DVAM1 orders:
+Order ID: 2867759; volume: 9
+Order ID: 2867751; volume: 7
+Order ID: 2867761; volume: 6
+
+
+Biggest sell at 15:17:7.270009
+Order ID: 2867755; volume: 1; price: 32.9
+
+
+Collect order book info at 15:43:27.590005
+
+Order count by symbol:
+DVAM1: 6
+DVAM2: 8
+OTHER: 8
+TEST0: 1
+TEST1: 3
+TEST2: 0
+TEST3: 5
+TEST4: 5
+TEST5: 3
+TEST6: 8
+TEST7: 2
+TEST8: 8
+TEST9: 2
+
+
+Biggest buy DVAM1 orders:
+Order ID: 2869942; volume: 95
+Order ID: 2869937; volume: 5
+Order ID: 2869934; volume: 3
+
+
+Biggest sell at 15:43:27.590005
+Order ID: 2869941; volume: 3; price: 26.6

@@ -1,0 +1,26 @@
+Run all three operations at the end of the provided data.
+Please note that if the order was cancelled by the time the operations are run then it does not exist in the order book anymore and will not be taken in consideration.
+
+Order count by symbol:
+DVAM1: 12
+DVAM2: 11
+OTHER: 2
+TEST0: 3
+TEST1: 5
+TEST2: 1
+TEST3: 3
+TEST4: 6
+TEST5: 1
+TEST6: 8
+TEST7: 2
+TEST8: 14
+TEST9: 2
+
+
+Biggest buy DVAM1 orders:
+Order ID: 2870380; volume: 72
+Order ID: 2870401; volume: 69
+Order ID: 2870364; volume: 7
+
+
+No SELL order at 15:30:0.0

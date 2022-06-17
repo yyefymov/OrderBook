@@ -1,0 +1,25 @@
+Stop reading the data at 15:30:00 to simulate collecting order info at this time mark.
+
+Order count by symbol:
+DVAM1: 4
+DVAM2: 1
+OTHER: 5
+TEST0: 2
+TEST1: 9
+TEST2: 1
+TEST3: 3
+TEST4: 4
+TEST5: 3
+TEST6: 9
+TEST7: 2
+TEST8: 6
+TEST9: 2
+
+
+Biggest buy DVAM1 orders:
+Order ID: 2868816; volume: 2
+Order ID: 2868830; volume: 2
+
+
+Biggest sell at 15:30:0.0
+Order ID: 2868826; volume: 901; price: 35.7
