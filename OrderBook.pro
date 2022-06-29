@@ -4,10 +4,10 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 INCLUDEPATH += \
-        ../googletest/googletest
+        $$(GTEST_DIR)/googletest
 
 INCLUDEPATH += \
-        ../googletest/googletest/include
+        $$(GTEST_DIR)/googletest/include
 
 SOURCES += \
         src/Order.cpp \
@@ -18,7 +18,7 @@ SOURCES += \
         test/testsOverData/TestsOverData.cpp
 
 SOURCES += \
-        ../googletest/googletest/src/gtest-all.cc
+        $$(GTEST_DIR)/googletest/src/gtest-all.cc
 
 HEADERS += \
     include/CustomTypes.h \
